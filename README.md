@@ -1,5 +1,5 @@
 # Lalit Jangra Portfolio
-<img src="https://github.com/VIB3SFR0MEYES/Resources_Vib3s/blob/main/SUman.jpeg" alt="VIB3SFR0MEYES" width="600" style="vertical-align: bottom;">
+<img src="https://github.com/D4rD00M/Contributors/blob/main/Creators%20%26%20Projects/Z3nith.jpg" width="600" style="vertical-align: bottom;">
 To view a live demo, [click here](https://z3nithn.github.io/).
 
 ## Features
